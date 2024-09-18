@@ -20,8 +20,8 @@ _ 개인 repo는 위니브 회사 repo로 이관되어 더이상 업데이트 �
 
 - 서비스 URL 정보
 
-  - 실행 URL: https://weniv.github.io/weniv_blog/
-  - blog github repo: https://github.com/weniv/github_blog
+  - 실행 URL: https://manitw28.github.io/manitw28_blog/
+  - blog github repo: https://github.com/manitw28/manitw28_blog
 
 - 기존 GitHub 블로그와 비교
 
